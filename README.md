@@ -2,6 +2,8 @@
 
 ### Installation
 
+Download or clone the repository, then go to the folder and run: 
+
 ```sh
 $ npm install
 ```
